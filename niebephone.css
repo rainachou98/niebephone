@@ -1,0 +1,23 @@
+.picture{
+    background:linear-gradient(rgba(0, 0, 0, 0.849),rgba(0, 0, 0, 0.815) ) ,url(image/header.jpg)center/cover no-repeat fixed  rgba(0, 0, 0, 0.562) !important;
+ }
+
+ 
+ .tof{
+    background:linear-gradient(rgba(0, 0, 0, 0.849),rgba(0, 0, 0, 0.815) ) ,url(image/fon2.jpg)center/cover no-repeat fixed  rgba(0, 0, 0, 0.562) !important;
+ }
+
+ 
+
+
+ .propos{
+   background:linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.815) ) ,url(image/loup.jpg)center/cover no-repeat fixed  rgba(0, 0, 0, 0.562) 
+ }
+
+.imgComming{
+   
+}
+.chi
+{
+   text-align: right;
+}
